@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ResultFragment">
+
+    <TextView
+        android:id="@+id/ResultMessage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="84dp"
+        android:text="@string/ResultMessage"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="30sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/Score"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0/5"
+        android:textAlignment="center"
+        android:textColor="#14d0de"
+        android:textSize="24sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toBottomOf="@+id/scoreBar"
+        app:layout_constraintEnd_toEndOf="@+id/scoreBar"
+        app:layout_constraintStart_toStartOf="@+id/scoreBar"
+        app:layout_constraintTop_toTopOf="@+id/scoreBar" />
+
+    <ProgressBar
+        android:id="@+id/scoreBar"
+        style="@style/CircularDeterminateProgressBar"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        app:layout_constraintBottom_toBottomOf="@+id/ResultMessage"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/ResultMessage" />
+
+    <Button
+        android:id="@+id/Restart"
+        android:layout_width="320dp"
+        android:layout_height="78dp"
+        android:layout_marginTop="28dp"
+        android:background="#FFFFFF"
+        android:fontFamily="sans-serif-light"
+        android:text="@string/Restart"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:cornerRadius="0dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ResultMessage" />
+
+    <Button
+        android:id="@+id/Share"
+        android:layout_width="320dp"
+        android:layout_height="78dp"
+        android:layout_marginTop="16dp"
+        android:background="#FFFFFF"
+        android:fontFamily="sans-serif-light"
+        android:text="@string/Share"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:cornerRadius="0dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Restart" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/party_popper_right"
+        app:layout_constraintBottom_toBottomOf="@+id/ResultMessage"
+        app:layout_constraintEnd_toEndOf="@+id/ResultMessage"
+        app:layout_constraintStart_toEndOf="@+id/scoreBar"
+        app:layout_constraintTop_toTopOf="@+id/ResultMessage" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/party_popper_left"
+        app:layout_constraintBottom_toBottomOf="@+id/ResultMessage"
+        app:layout_constraintEnd_toStartOf="@+id/scoreBar"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/ResultMessage" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

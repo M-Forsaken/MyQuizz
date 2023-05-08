@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeFragment">
+
+    <TextView
+        android:id="@+id/HomeMessage"
+        android:layout_width="267dp"
+        android:layout_height="68dp"
+        android:layout_centerInParent="true"
+        android:text="@string/selection_message"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="22sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.183" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="360dp"
+        android:layout_marginBottom="24dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/HomeMessage"
+        app:layout_constraintVertical_bias="0.214">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingTop="10dp"
+            android:gravity="center"
+            >
+
+            <Button
+                android:id="@+id/Geography"
+                android:layout_width="320dp"
+                android:layout_height="78dp"
+                android:background="#FFFFFF"
+                android:drawableEnd="@drawable/geography"
+                android:fontFamily="sans-serif-light"
+                android:paddingStart="60dp"
+                android:paddingTop="5dp"
+                android:paddingRight="50dp"
+                android:text="@string/Geography"
+                android:textAlignment="textStart"
+                android:textColor="@android:color/black"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                app:cornerRadius="0dp" />
+
+            <Button
+                android:id="@+id/History"
+                android:layout_width="320dp"
+                android:layout_height="78dp"
+                android:layout_marginTop="10dp"
+                android:background="#FFFFFF"
+                android:drawableEnd="@drawable/history"
+                android:fontFamily="sans-serif-light"
+                android:paddingStart="60dp"
+                android:paddingTop="5dp"
+                android:paddingRight="50dp"
+                android:text="@string/History"
+                android:textAlignment="textStart"
+                android:textColor="@android:color/black"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                app:cornerRadius="0dp" />
+
+            <Button
+                android:id="@+id/Science"
+                android:layout_width="320dp"
+                android:layout_height="78dp"
+                android:layout_marginTop="10dp"
+                android:background="#FFFFFF"
+                android:drawableEnd="@drawable/science"
+                android:fontFamily="sans-serif-light"
+                android:paddingStart="60dp"
+                android:paddingTop="5dp"
+                android:paddingRight="50dp"
+                android:text="@string/Science"
+                android:textAlignment="textStart"
+                android:textColor="@android:color/black"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                app:cornerRadius="0dp" />
+
+            <Button
+                android:id="@+id/Art"
+                android:layout_width="320dp"
+                android:layout_height="78dp"
+                android:layout_marginTop="10dp"
+                android:background="#FFFFFF"
+                android:drawableEnd="@drawable/art"
+                android:fontFamily="sans-serif-light"
+                android:paddingStart="60dp"
+                android:paddingTop="5dp"
+                android:paddingRight="50dp"
+                android:text="@string/Art"
+                android:textAlignment="textStart"
+                android:textColor="@android:color/black"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                app:cornerRadius="0dp" />
+
+            <Button
+                android:id="@+id/Music"
+                android:layout_width="320dp"
+                android:layout_height="78dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:background="#FFFFFF"
+                android:drawableEnd="@drawable/music"
+                android:fontFamily="sans-serif-light"
+                android:paddingStart="60dp"
+                android:paddingTop="5dp"
+                android:paddingRight="50dp"
+                android:text="@string/Music"
+                android:textAlignment="textStart"
+                android:textColor="@android:color/black"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                app:cornerRadius="0dp" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

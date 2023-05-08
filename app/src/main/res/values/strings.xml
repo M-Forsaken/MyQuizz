@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MyQuiz</string>
+    <string name="selection_message">Bạn muốn trả lời các câu hỏi ở lĩnh vực nào?</string>
+    <string name="Geography">Địa lý</string>
+    <string name="History">Lịch Sử</string>
+    <string name="Science">Khoa học</string>
+    <string name="Art">Nghệ Thuật</string>
+    <string name="Music">Âm Nhạc</string>
+    <string name="difficulty_selection_message">Chọn độ khó mà bạn muốn chơi</string>
+    <string name="Easy">Dễ</string>
+    <string name="Medium">Trung Bình</string>
+    <string name="Hard">Khó</string>
+    <string name="True">Đúng</string>
+    <string name="False">Sai</string>
+    <string name="ResultMessage">Bạn đã trả lời đúng\n\n\n\n\ncâu hỏi</string>
+    <string name="Restart">Hoàn Thành</string>
+    <string name="Share">Chia sẻ thành tích</string>
+    <string name="AboutMe">Thông tin trò chơi</string>
+    <string name="Contact">Góp ý</string>
+    <string name="Information">Nhà Phát triển:\n • Nguyễn Duy Minh.\nThông tin liên hệ:\n Email: 20021554@vnu.edu.vn.</string>
+    <string name="Field">Lĩnh vực : </string>
+    <string name="Difficulty">Độ khó :</string>
+    <string name="Correct_Nums">Số câu trả lời đúng :</string>
+    <string name="Play_Date">Ngày chơi :</string>
+</resources>
