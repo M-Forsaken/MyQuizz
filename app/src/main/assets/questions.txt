@@ -1,0 +1,174 @@
+Field:Địa Lý
+Difficulty:Dễ
+Hà Nội là thủ đô của Việt Nam?:true
+Hà Nội là thành phố lớn nhất của Việt Nam.:true
+Thành phố Hồ Chí Minh là thành phố dông dân nhất Việt Nam.:true
+Việt Nam có diện tích 331.212 km².:true
+Việt Nam có 63 tỉnh thành cả nước.:true
+Hiện tại dân cư Việt Nam là 80 triệu dân.:false
+Việt Nam nằm ở trung tâm khu vực Đông Nam Á, ở phía đông bán đảo Đông Dương.:true
+Quần đảo Hoàng Sa và Trường Sa thuộc chủ quyền Việt Nam.:true
+Hà Nội là thành phố có mật độ dân số cao nhất Việt Nam.:false
+Hà Nội là thành phố có tổng thu nhập cao nhất Việt Nam năm 2021.:false
+Difficulty:Trung bình
+Trái Đất nằm ở vị trí thứ 3 theo thứ tự xa dần Mặt Trời.:true
+Hệ Mặt Trời gồm có Mặt Trời và 7 hành tinh khác nhau.:false
+Hành tinh đứng đầu tiên trong Hệ Mặt Trời là Sao Thủy.:true
+Mặt Trời và 8 hành tinh chuyển động xung quanh nó còn được gọi là Thiên hà.:false
+Một tập hợp của rất nhiều thiên thể cùng với bụi, khí và bức xạ điện từ được gọi là Thiên hà.:true
+Lõi (nhân) Trái Đất có nhiệt độ cao nhất là 5000°C.:true
+Lớp man-ti tồn tại ở trạng thái lỏng.:false
+Các loại đá được hình thành do sự lắng đọng vật chất được gọi là đá trầm tích.:true
+Trên Trái Đất có tất cả 9 mảng kiến tạo lớn.:false
+Nguồn năng lượng sinh ra nội lực chủ yếu là năng lượng trong lòng Trái Đất.:true
+Difficulty:Khó
+Mùa Đông có ngày dài hơn đêm và xu hướng ngày càng ngắn lại, đêm càng dài ra.:false
+Châu Á là châu lục rộng lớn nhất thế giới, diện tích khoảng 44,4 triệu km².:true
+Chiều rộng từ bờ Tây sang bờ Đông nơi lãnh thổ châu Á mở rộng nhất là 9200 km.:true
+Chiều dài từ điểm cực Bắc đến điểm cực Nam của châu Á là 9500 km.:false
+Hi-ma-lay-a là dãy núi cao và đồ sộ nhất châu Á.:true
+Dầu mỏ, khí đốt tập trung nhiều nhất ở khu vực Tây Nam Á.:true
+Do lãnh thổ trải dải từ vùng cực bắc đến vùng Xích đạo nên khí hậu châu Á lại chia thành nhiều đới.:true
+Khí hậu gió mùa châu Á không có kiểu khí hậu gió mùa nhiệt đới.:false
+Khí hậu gió mùa châu Á phân bố ở Đông Á, Đông Nam Á và Trung Á.:false
+Kiểu khí hậu lục địa phân bố ở Tây Nam Á, Trung Á của châu Á.:true
+Field:Lịch Sử
+Difficulty:Dễ
+Khoảng thế kỉ VII TCN – thế kỉ VII,ở khu vực Đông Nam Á xuất hiện một số quốc gia sơ kì như Văn Lang, Chăm-pa, Phù Nam.:true
+Các vương quốc phong kiến ở khu vực Đông Nam Á được hình thành từ thế kỉ VII đến thế kỉ X.:false
+Thờ Đức Phật vẫn được người Việt duy trì trong suốt thời Bắc thuộc.:false
+Trong suốt thời kì Bắc thuộc, người Việt vẫn nghe và nói hoàn toàn bằng tiếng Hán.:false
+Tết Hàn thực của người Trung Quốc được du nhập vào Việt Nam dưới thời Bắc thuộc.:true
+Nhà nước Văn Lang chia làm 15 bộ.:true
+Năm 208 TCN, Thục Phán lên làm vua, xưng là An Dương Vương, lập ra nhà nước Âu Lạc.:true
+Nhà nước cổ đại đầu tiên xuất hiện trên lãnh thổ Việt Nam là nhà nước Văn Lang.:true
+Đầu năm 544, Lý Bí tự xưng là Lý Nam Đế, lập ra nhà nước Vạn Xuân, đóng đô ở vùng cửa sông Tô Lịch.:true
+Năm 40, Hai Bà Trưng phất cờ khởi nghĩa ở Hát Môn (Phúc Thọ - Hà Nội).:true
+Difficulty:Trung bình
+Vào đầu thế kỉ XVI, vùng đất có nền kinh tế tư bản chủ nghĩa phát triển nhất ở Tây Âu là Anh.:false
+Thắng lớn ở Xa-ra-tô-ga tạo bước ngoặt của cuộc chiến tranh giành độc lập của 13 bang Bắc Mĩ.:true
+Quan hệ sản xuất tư bản chủ nghĩa ở Anh, phát triển mạnh nhất ở các trung tâm về công nghiệp.:true
+Trước cách mạng, nước Pháp theo thể chế chính trị quân chủ lập hiến.:false
+Ngày 28/8/1789, Bản Tuyên ngôn Nhân quyền và Dân quyền ra đời.:true
+Đảng Cộng sản ra đời sớm nhất ở In-đô-nê-xi-a.:true
+Lào thực sự biến thành thuộc địa của Pháp từ năm 1893.:true
+Các nước thực dân phương Tây mở rộng và hoàn thành việc xâm lược các nước Đông Nam Á vào giữa thế kỉ XIX.:true
+Trong chiến tranh thế giới thứ nhất, khối liên minh gồm những nước Đức, Áo-Hung.:false
+Trong chiến tranh thế giới thứ nhất, kẻ hung hãn nhất trong cuộc tranh đua giành thuộc địa là nước Anh.:false
+Difficulty:Khó
+Cách mạng tháng 10 Nga diễn ra vào năm 1918.:false
+Năm 1915, Chiến tranh thế giới thứ nhất bùng nổ.:false
+Mâu thuẫn giữa các nước đế quốc về vấn đề thuộc địa đã làm nổ ra chiến tranh thế giới thứ 1.:true
+Chiến dịch tấn công Vécđoong của Đức thất bại đánh dấu kết thúc giai đoạn 1 của Chiến tranh thế giới thứ nhất.:true
+Mĩ giữ thái độ “trung lập” trong giai đoạn đầu của cuộc Chiến tranh thế giới thứ nhất vì muốn lợi dụng chiến tranh để bán vũ khí cho cả hai phe.:true
+Quân đội Đức tấn công Ba Lan đã khởi đầu Chiến tranh thế giới thứ hai.:true
+Năm 1938, Hít-le gây ra vụ Xuy-đét nhằm thôn tính nước Áo.:false
+Trong quá trình đẩy lùi quân phát xít Đức, Hồng quân Liên Xô đã giải phóng được những nước Tây Âu.:false
+Chiến tranh thế giới thứ hai chấm dứt hoàn toàn ở châu Âu khi nước Đức kí văn bản đầu hàng không điều kiện.:true
+Chiến tranh thế giới thứ hai kết thúc với sự sụp đổ hoàn toàn của chủ nghĩa phát xít Đức, Italia, Nhật Bản.:true
+Field:Khoa học
+Difficulty:Dễ
+Nước sôi ở nhiệt độ 0°C.:false
+Nước đông đá ỏ nhiệt độ 100°C.:false
+Lõi Trái Đất rất nóng.:true
+Trái Đất quay quanh Mặt Trời.:true
+Mọi hiện tượng phóng xạ đều do con người tạo ra.:false
+Electron nhỏ hơn nguyên tử.:true
+Vũ trụ bắt đầu từ một vụ nổ lớn.:true
+Laser hoạt động bằng cách tập trung vào sóng âm.:false
+Loài người mà chúng ta biết đến ngày nay phát triển từ các loài động vật trước đây.:true
+Mây là do hơi nước ngưng tụ lại tạo thành.:true
+Trong không khí oxygen chiếm khoảng 21% thể tích.:true
+Difficulty:Trung bình
+Hubble là kính viễn vọng không gian đầu tiên trên thế giới.:true
+"Năm ánh sáng" là đơn vị dùng để đo đại lượng vận tốc trong vũ trụ.:false
+Mạng toàn cầu (World Wide Web) được ra đời ở Mỹ.:false
+Các nhà khoa học thường định tuổi hóa thạch dựa vào chất phóng xạ có trên mẫu vật.:true
+Một tập hợp của rất nhiều thiên thể cùng với bụi, khí và bức xạ điện từ được gọi là Thiên hà.:true
+Thành phần chủ yếu cấu tạo nên sao chổi là băng.:true
+Người tìm ra vắc-xin chữa bệnh Dại là Louis Pasteur.:true
+Công cụ đầu tiên trong lịch sử loài người được phát minh là công cụ bằng đá.:true
+Trong môi trường chân không, mọi vật thể rơi về phía tâm trái đất đều rơi với 1 gia tốc như nhau.:true
+Các hành tinh trong hệ Mặt Trời chuyển động quanh Mặt Trời theo cùng một chiều, trừ Kim tinh chuyển động theo chiều ngược lại.:false
+Difficulty:Khó
+Không gian trong trong vũ trụ hoàn toàn tĩnh lặng.:true
+Mặt trời được coi là một hành tinh.:false
+Các ngôi sao được cấu tạo từ các vật chất khác nhau.:false
+Vũ trụ quan sát được đã tồn tại khoảng 13.7 tỉ năm.:true
+Lỗ đen phát xạ sóng điện từ theo chu kì xác định.:false
+Thiên hà của chúng ta là thiên hà không có hình dạng xác định.:false
+Lỗ đen lớn nhất được tìm thấy là lỗ đen Sagittarius A*, nằm ở giữa thiên hà của chúng ta.:false
+Khoảng 3000 thiên thạch nặng hơn 1kg rơi xuống trái đất mỗi năm.:true
+Sao Thổ là hành tinh duy nhất có vành đai hành tinh.:false
+Sao hỏa có 2 mặt trăng.:true
+Field:Nghệ Thuật
+Difficulty:Dễ
+Màu đỏ là màu ít phổ biến nhất trong các loại thực phẩm.:false
+Nghệ thuật trong bất kỳ thời đại nào đều không bị ảnh hưởng bới công nghệ của thời đại đó.:false
+Có 7 màu chính là đỏ,da cam,vàng,xanh lục,xanh lam,chàm,tím.:false
+Nghệ thuật chỉ trau dồi trí tưởng tượng của con người.:false
+Tranh sinh hoạt là một hình thức nghệ thuật thể loại, mô tả các khía cạnh của cuộc sống hàng ngày.:true
+Khi pha màu vàng và màu tím ta sẽ thu được màu nâu.:true
+Khi pha màu đen với một màu khác ta thu được màu đó sáng hơn.:false
+Khi pha màu trắng với một màu khác ta thu được màu đó sáng hơn.:true
+Màu đỏ sẫm là màu sáng của màu đỏ.:false
+Cờ Việt Nam được tạo bởi hai màu vàng và trắng.:false
+Difficulty:Trung bình
+Tác phẩm “Vườn xuân Trung Nam Bắc” được hoạ sĩ Nguyễn gia trí hoàn thành trong khoảng 20 năm.:true
+Bức tranh sơn dầu “Thiếu nữ bên hoa huệ” được vẽ bởi họa sĩ Tô ngọc vân.:true
+Bức tranh "Em Thúy" của hoạ sĩ Trần Văn Cẩn được công nhận là Bảo vật quốc gia năm 2014.:true
+Tác phẩm "Tắt Đèn" của nhà văn Ngô Tất Tố được xuất bản lần đầu tiên năm 1937.:true
+Tác phẩm "Truyện Kiều" của nhà văn Nguyễn Du được lấy cảm hứng từ bộ truyện văn xuôi Kim Vân Kiều truyện của Thanh Tâm Tài Nhân.:true
+"Số Đỏ" là một trong ba tác phẩm văn học làm nên tiếng tăm của nhà văn Vũ Trọng Phụng.:true
+Bức hoạ sơn mài “Vườn xuân Trung Nam Bắc” được hoạ sĩ Nguyễn gia trí tạo nên bằng 5 mảnh ván ghép lại.:false
+Bức hoạ “hai thiếu nữ và em bé” cũng là một trong những kiệt tác được nhà nước công nhận là “Bảo vật quốc gia”.:true
+Bức tranh “Kết nạp Đảng ở Điện Biên Phủ” được họa sĩ Nguyễn Sáng vẽ năm 1965.:true
+"Chí Phèo" là một truyện ngắn nổi tiếng của nhà văn Nam Cao viết vào năm 1942.:false
+Difficulty:Khó
+Chúa Jesus bị thiếu chiếc đĩa ăn trong bức tranh "The Last Supper".:false
+Van Gogh chỉ bán duy nhất một bức tranh trong cuộc đời của ông.:true
+Cả hai quá trình và vật liệu đều quan trọng với bất kỳ tác phẩm nghệ thuật nào.:true
+Tác phẩm nổi tiếng nhất mọi thời đại là bức họa "Mona Lisa" được vẽ bởi Leonardo da Vinci.:true
+Van Gogh đã vẽ bức họa "Trời đầy sao"(The Starry Night) năm 1889.:true
+"Sự dai dẳng của ký ức" (The Persistence of Memory) là tác phẩm đầu tiên của họa sĩ người Tây Ban Nha,Salvador Dali.:true
+Tác phẩm "Tiếng Hét" (The Scream) được vẽ bởi Paul Gaugin.:false
+"Những người khốn khổ"là tác phẩm văn học nổi tiếng của đại văn hào Victor Hugo.:true
+“Ông già và biển cả” của nhà văn Emest Hemingway được viết vào năm 1963.:false
+“Chiến tranh và hòa bình” là bộ tiểu thuyết sử thi, được viết trong thời đại Napoléon,của tác giả Nikolayevich Tolstoy.:true
+Field:Âm nhạc
+Difficulty:Dễ
+Nguyễn Thanh Tùng, thường được biết đến với nghệ danh Sơn Tùng M-TP.:true
+Bài hát "Em của ngày hôm qua" được ca sĩ Sơn Tùng MTP sáng tác năm 2014.:false
+Trịnh Trần Phương Tuấn, thường được biết đến với nghệ danh Jack.:true
+Ca khúc "Đom đóm" của ca sĩ Jack phát hành năm 2020.:true
+Sơn Tùng MTP còn có biệt danh khác là Mono.:false
+Ca khúc "Lạc trôi" là ca khúc đầu tiên của Sơn Tùng MTP.:false
+Ca khúc "Waiting for you" của ca sĩ Mono nằm trong album số 22 ra mắt năm 2021.:false
+Nguyễn Thanh Tuấn, thường được biết đến với nghệ danh Justatee.:true
+Ca khúc "Đã lỡ yêu em nhiều" của ca sĩ Justatee phát hành năm 2016.:false
+Ca khúc "Thằng Điên" của ca sĩ Justatee phát hành năm 2019.:true
+Difficulty:Trung bình
+Ca sĩ Taylor Swift có tour ca nhạc tên là "The Red Tour".:true
+Tên thật của ca sĩ Lady Gaga là Stefani Germanotta.:true
+Ca sĩ David Guetta sinh tại Ý.:false
+Ca khúc "Baby" là ca khúc đầu tiên của Justin Bieber.:false
+Billie Eilish là người trẻ nhất thắng cả 4 giải Grammys trong 1 năm.:true
+Eminem được sinh ra tại bang Missouri,Mỹ.:true
+Ca khúc "Rap God" của rapper Eminem là ca khúc có lượng từ nhiều nhất trong 1 bản single.:true
+Tên thật ca sĩ FiftyCent(50 Cent) là Curtis James Jackson.:true
+Ca sĩ Rhianna được sinh ra tại Barbados.:true
+Micheal Jackson có biệt danh là "Ông hoàng nhạc pop"(King of Pop).:true
+Difficulty:Khó
+Ban nhạc Take That chia rẽ năm 1917.:false
+Gareth Gates thắng Pop idol năm 2001.:false
+Bài hát "Everything I Do" được hát bởi Bryan Adams.:true
+Bản nhạc chủ đề của phim Titanic là "The power of love".:false
+Ca khúc đầu tiên của ca sĩ Katy Perry được phát hành năm 2008.:true
+Album "Labyrinth" của David Bowie bao gồm 8 ca khúc.:false
+Nhóm nhạc One Direction là nhóm nhạc đầu tiên thắng chương trình XFactor.:false
+Snoop Dog tên thật là Calvin Cordozar Broadus, Jr.:true
+Album đầu tay của rapper SnoopDog mang tên "Doggystyle".:true
+Roman Kemp đã từng là thành viên của nhóm nhạc the Spandau Ballet.:false
+Joji, hay còn được biết đến với tên Pinkguy, FilthyFrank, tên thật là George Kusunoki Miller.:true
+Joji từng là một Youtuber, bắt đầu theo đuổi ca nhạc chuyên nghiệp vào năm 2017.:true
+Bản nhạc "Glimpse of us" ra mắt vào năm 2022 của nghệ sĩ Joji được đề cử danh hiệu bản nhạc của năm 2022.:true
